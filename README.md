@@ -9,7 +9,7 @@
    j'ai décidé de mettre une passerelle api devant qui fait l'authentification JWT pour les deux services
    dont je suis inspiré par Netflix/Zuul
 - Nous avons 3 services dont une passerelle.
-- Seule la passerelle peut accéder aux microservices internes via le réseau interne (utilisateurs, commandes)
+- Seule la passerelle peut accéder aux microservices internes via le réseau interne (utilisateurs, commandes).
 
 ## Services
 
