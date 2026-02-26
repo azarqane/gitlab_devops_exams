@@ -1,0 +1,9 @@
+replicaCount: 2
+
+image:
+  repository: $DOCKER_USER/exam_gitlab
+  tag: latest
+
+service:
+  type: ClusterIP
+  port: 80
